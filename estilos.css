@@ -1,0 +1,76 @@
+*{
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+#landing_navbar{
+	border-style: solid;
+	width: 30%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: lightblue;
+}
+
+#btn_irRegistro{
+	position: absolute;
+	left: 30%;
+	bottom: 0;
+}
+
+#derecho{
+	/*border-style: dotted;*/
+	width: 70%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+}
+
+#ppal{
+	/*border-style: solid;*/
+	text-align: center;
+	margin: auto;
+	width: 60%;
+}
+
+#info1{
+	/*border-style: solid;*/
+	width: 40%;
+	text-align: center;
+	/*position: absolute;*/
+	float:left;
+	padding: 30px 30px 30px 30px;
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+#info2{
+	/*border-style: solid;*/
+	width: 40%;
+	text-align: center;
+	/*position: absolute;*/
+	/*margin-left: 500px;*/
+	float: right;
+	padding: 30px 30px 30px 30px;
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+#form1{
+	width: 80%;
+	margin: auto;
+}
+
+#in_usuario{
+	background-color: red;
+}
+
+#in_contrasena{
+	background-color: yellow;
+}
+
+#form_registro_usuario{
+	border-style: dashed;
+}
